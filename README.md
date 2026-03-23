@@ -1,37 +1,67 @@
-<h1 align="center">Hi👋, I'm Muhammad Talha</h1>
-<h3 align="center">CS sophomore | Data Science</h3>
-<h3 align="center"><a href="https://drive.google.com/file/d/1sjxO-0hcMe73gmvzeXXNU_cgDbl0fSSY/view?usp=sharing">**My CV**</a></h3>
+<h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
+<h3 align="center">🚀 AI Automation Engineer | Data Engineer | RAG Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsMuhammadtalha&label=Profile%20views&color=0e75b6&style=flat" alt="itsMuhammadtalha" /> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/itsmuhammadtalha/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsMuhammadtalha" alt="itsMuhammadtalha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/taycan01" target="blank"><img src="https://img.shields.io/twitter/follow/taycan01?logo=twitter&style=for-the-badge" alt="taycan01" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/hello-world-commits/hello-world-commits/blob/master/Programming%20and%20coding%20-%20Kit8.png">
-
-- 🌱 I’m currently learning **Python | Data Science | Machine Learning | python | Web development | UI Design | Databases**
-
-- 💬 Ask me about **Data and AI related Stuff**
-
-- 📫 How to reach me **mehmoodtalha315@gmail.com**
-
-- 🤝 Connect with me on LinkedIn ➡️ <a href="https://www.linkedin.com/in/muhammad-talha-933481210/">**Talha's LinkedIn**</a>
-
-- ⚡ Fun fact **I think I am "funny"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muhamma85821850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma85821850" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad talha" height="30" width="40" /></a>
-<a href="[https://instagram.com/talha.mehmood_](https://www.instagram.com/talhadevdiaries/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talha.mehmood_" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1BihSCWZAvqKQrhj6baHvcEKUx0oP3VCv/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMuhammadtalha&show_icons=true&locale=en&layout=compact" alt="itsMuhammadtalha" /></p>
+### 🧠 About Me
+💡 I build **AI systems that don’t just analyze data — they act on it**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsMuhammadtalha&show_icons=true&locale=en" alt="itsMuhammadtalha" /></p>
+- ⚙️ Designing **Agentic RAG pipelines** over real-world data  
+- 🔄 Building **automation workflows** with n8n & APIs  
+- 📊 Engineering **scalable data pipelines** with Databricks & PySpark  
+- 🔍 Working with **vector databases** for semantic search  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsMuhammadtalha&" alt="itsMuhammadtalha" /></p>
+---
+
+### ⚡ Tech Stack
+
+#### 🤖 AI / Automation
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-00C853?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=flat-square)
+![PgVector](https://img.shields.io/badge/PgVector-336791?style=flat-square)
+
+#### 📊 Data Engineering
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square)
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square)
+
+#### 🛠️ Backend & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **RAG Resume Ranking System**  
+> AI system that analyzes resumes, ranks candidates, extracts data, and generates automated emails  
+
+🔹 **DocTalk**  
+> Chat with your documents using vector search + LLMs  
+
+🔹 **Real-Time Traffic Analytics**  
+> Kafka + Spark streaming pipeline with ML predictions and dashboards  
+
+---
+
+### 📈 Current Focus
+```text
+Building AI Agents → Automating Workflows → Scaling Data Systems
